@@ -2,5 +2,6 @@
 
 1. Ciudad Gótica
 2. Metrópolis
-4. Pueblo paleta
-5. Tonalá
+3. Pueblo paleta
+4. Tonalá
+5. Guadalajara
